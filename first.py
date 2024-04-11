@@ -1,5 +1,5 @@
 def details():
     name="Krishna"
-    password="123"
+    password="Krishna123@"
     print(name,password)
 details()
